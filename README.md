@@ -1,2 +1,1 @@
-# MERN-THINKBOARD
-
+This is my MERN THINKBOARD Note App, developed using MongoDB, Express, React, and Node.js. It demonstrates my skills in building a full-stack web application with a responsive frontend, a secure backend, and database integration. Through this project, I gained hands-on experience in creating, reading, updating, and deleting notes while managing state and handling API requests efficiently.
